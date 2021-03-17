@@ -97,7 +97,7 @@ Podrán revisar el registro de los puntos obtenidos en carpeta Drive del curso. 
 | 19   | VALENTINA MORALES | — | — |
 | 20   | DANIELA ORELLANA | — | — |
 | 21   | FRANCISCA PARRA | — | — |
-| 22   | JAVIER RAMÍREZ | — | — |
+| 22   | JAVIER RAMÍREZ | https://github.com/Rama2432/dno037-2021 | — |
 | 23   | MARIO REINIKE | — | — |
 | 24   | VALENTINA REY | — | — |
 | 25   | MIRANDA SEPULVEDA | — | — |
